@@ -1,0 +1,7 @@
+LISTADO DE REQUERIMIENTOS
+
+Llamada con el cliente el 19 de octubre de 2029
+-Correguir desborde de la pagina de incicio 
+-cambiar fondo a todo el sitio a color oscuro 
+-Aumentar el tamaño de la fuente 
+-
